@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FonazykPro.github.io</title>
+
+<style>
+body{
+    font-family:Arial,sans-serif;
+    background:#1e3c72;
+    color:white;
+    text-align:center;
+    margin:0;
+}
+
+nav{
+    background:#111;
+    padding:15px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:0 15px;
+    font-weight:bold;
+}
+
+.container{
+    margin-top:100px;
+}
+
+.btn{
+    background:white;
+    color:#1e3c72;
+    padding:12px 25px;
+    border-radius:10px;
+    text-decoration:none;
+}
+</style>
+</head>
+<body>
+
+<nav>
+    <a href="index.html">Accueil</a>
+    <a href="live.html">Live Twitch</a>
+</nav>
+
+<div class="container">
+    <h1>FonazykPro.github.io</h1>
+    <p>Bienvenue sur mon site Minecraft !</p>
+    <a href="live.html" class="btn">Voir les Lives</a>
+</div>
+
+</body>
+</html>
